@@ -1,0 +1,2 @@
+android.app.Application
+x3D_with_MonoGame.x3D_with_MonoGame

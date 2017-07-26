@@ -1,0 +1,15 @@
+C:\Work\MyGithub\XamarinTraining\Guides\Hello Android Multiscreen\bin\Debug\Hello Android Multiscreen.dll
+C:\Work\MyGithub\XamarinTraining\Guides\Hello Android Multiscreen\bin\Debug\Hello Android Multiscreen.pdb
+C:\Work\MyGithub\XamarinTraining\Guides\Hello Android Multiscreen\bin\Debug\Hello_Android_Multiscreen.Hello_Android_Multiscreen.apk
+C:\Work\MyGithub\XamarinTraining\Guides\Hello Android Multiscreen\bin\Debug\Hello_Android_Multiscreen.Hello_Android_Multiscreen-Signed.apk
+C:\Work\MyGithub\XamarinTraining\Guides\Hello Android Multiscreen\obj\Debug\Hello Android Multiscreen.csprojResolveAssemblyReference.cache
+C:\Work\MyGithub\XamarinTraining\Guides\Hello Android Multiscreen\obj\Debug\Hello Android Multiscreen.dll
+C:\Work\MyGithub\XamarinTraining\Guides\Hello Android Multiscreen\obj\Debug\Hello Android Multiscreen.pdb
+C:\Work\MyGithub\XamarinTraining\Guides\Hello Android Multiscreen\obj\Debug\android\bin\Hello_Android_Multiscreen.Hello_Android_Multiscreen.apk
+C:\Work\MyGithub\XamarinTraining\Guides\Hello Android Multiscreen\obj\Debug\res\layout\main.xml
+C:\Work\MyGithub\XamarinTraining\Guides\Hello Android Multiscreen\obj\Debug\res\values\strings.xml
+C:\Work\MyGithub\XamarinTraining\Guides\Hello Android Multiscreen\obj\Debug\res\drawable\icon.png
+C:\Work\MyGithub\XamarinTraining\Guides\Hello Android Multiscreen\obj\Debug\R.cs.flag
+C:\Work\MyGithub\XamarinTraining\Guides\Hello Android Multiscreen\obj\Debug\uploadflags.txt
+C:\Work\MyGithub\XamarinTraining\Guides\Hello Android Multiscreen\bin\Debug\Hello Android Multiscreen.dll.mdb
+C:\Work\MyGithub\XamarinTraining\Guides\Hello Android Multiscreen\obj\Debug\android\assets\Hello Android Multiscreen.dll.mdb

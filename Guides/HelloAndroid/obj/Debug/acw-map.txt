@@ -1,0 +1,4 @@
+HelloAndroid.MainActivity, HelloAndroid;md5aa1423aa3402b9e3a693e676ae4631d5.MainActivity
+HelloAndroid.MainActivity, HelloAndroid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5aa1423aa3402b9e3a693e676ae4631d5.MainActivity
+HelloAndroid.MainActivity;md5aa1423aa3402b9e3a693e676ae4631d5.MainActivity
+helloandroid.MainActivity;md5aa1423aa3402b9e3a693e676ae4631d5.MainActivity

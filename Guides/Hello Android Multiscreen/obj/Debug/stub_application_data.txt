@@ -1,0 +1,2 @@
+android.app.Application
+Hello_Android_Multiscreen.Hello_Android_Multiscreen

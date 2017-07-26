@@ -1,0 +1,18 @@
+C:\Work\MyGithub\XamarinTraining\MonoGame Tutorials\3D with MonoGame\bin\Android\AnyCPU\Debug\3D with MonoGame.dll
+C:\Work\MyGithub\XamarinTraining\MonoGame Tutorials\3D with MonoGame\bin\Android\AnyCPU\Debug\3D with MonoGame.pdb
+C:\Work\MyGithub\XamarinTraining\MonoGame Tutorials\3D with MonoGame\bin\Android\AnyCPU\Debug\x3D_with_MonoGame.x3D_with_MonoGame.apk
+C:\Work\MyGithub\XamarinTraining\MonoGame Tutorials\3D with MonoGame\bin\Android\AnyCPU\Debug\x3D_with_MonoGame.x3D_with_MonoGame-Signed.apk
+C:\Work\MyGithub\XamarinTraining\MonoGame Tutorials\3D with MonoGame\bin\Android\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Work\MyGithub\XamarinTraining\MonoGame Tutorials\3D with MonoGame\bin\Android\AnyCPU\Debug\MonoGame.Framework.xml
+C:\Work\MyGithub\XamarinTraining\MonoGame Tutorials\3D with MonoGame\obj\Debug\3D with MonoGame.dll
+C:\Work\MyGithub\XamarinTraining\MonoGame Tutorials\3D with MonoGame\obj\Debug\3D with MonoGame.pdb
+C:\Work\MyGithub\XamarinTraining\MonoGame Tutorials\3D with MonoGame\obj\Debug\android\bin\x3D_with_MonoGame.x3D_with_MonoGame.apk
+C:\Work\MyGithub\XamarinTraining\MonoGame Tutorials\3D with MonoGame\obj\Debug\res\values\strings.xml
+C:\Work\MyGithub\XamarinTraining\MonoGame Tutorials\3D with MonoGame\obj\Debug\res\drawable\icon.png
+C:\Work\MyGithub\XamarinTraining\MonoGame Tutorials\3D with MonoGame\obj\Debug\res\drawable\splash.png
+C:\Work\MyGithub\XamarinTraining\MonoGame Tutorials\3D with MonoGame\obj\Debug\res\values\styles.xml
+C:\Work\MyGithub\XamarinTraining\MonoGame Tutorials\3D with MonoGame\obj\Debug\R.cs.flag
+C:\Work\MyGithub\XamarinTraining\MonoGame Tutorials\3D with MonoGame\obj\Debug\uploadflags.txt
+C:\Work\MyGithub\XamarinTraining\MonoGame Tutorials\3D with MonoGame\bin\Android\AnyCPU\Debug\3D with MonoGame.dll.mdb
+C:\Work\MyGithub\XamarinTraining\MonoGame Tutorials\3D with MonoGame\obj\Debug\android\assets\3D with MonoGame.dll.mdb
+C:\Work\MyGithub\XamarinTraining\MonoGame Tutorials\3D with MonoGame\obj\Debug\3D with MonoGame.csprojResolveAssemblyReference.cache
